@@ -16,10 +16,15 @@ The goal of this project is to develop a **prototype** for recording an **electr
 ## Components
 
 - **Arduino Uno**: The main microcontroller that collects ECG signals from the sensor.
+  ![image](https://github.com/user-attachments/assets/bf9832f9-de23-4ac5-9cd9-8d8f5ea1034d)
+
 - **AD8232 ECG Sensor**: A specialized sensor for monitoring the electrical activity of the heart.
+![image](https://github.com/user-attachments/assets/333fc071-282b-4a5e-af65-7bcff0624321)
+
 - **Jumper Wires**: For connecting the sensor to the Arduino board.
 - **USB Cable**: To connect the Arduino to a PC for data transfer and visualization.
 - **Computer/Mobile Device**: For visualizing the ECG data in real-time.
 
 ## Project Structure
+![image](https://github.com/user-attachments/assets/590041a7-c6d4-4dfd-afbc-5d3c37e10b16)
 
